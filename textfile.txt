@@ -1,4 +1,6 @@
+this git ssh test connection
+;
+
 first text file in this tarining	
 
-
-this is anoither co mit from local machine
+is is anoither co mit from local machine
